@@ -1,0 +1,21 @@
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Archivo Oculto\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.exe.config
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Archivo Oculto\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.exe
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Archivo Oculto\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.pdb
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Archivo Oculto\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csprojAssemblyReference.cache
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Archivo Oculto\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csproj.CoreCompileInputs.cache
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Archivo Oculto\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.exe
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Archivo Oculto\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.pdb
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.exe.config
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.exe
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.pdb
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csprojAssemblyReference.cache
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csproj.CoreCompileInputs.cache
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.exe
+D:\Cruz - Seguridad Proyecto\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.pdb
+D:\Cruz 6°1°\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.exe.config
+D:\Cruz 6°1°\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.exe
+D:\Cruz 6°1°\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.pdb
+D:\Cruz 6°1°\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csprojAssemblyReference.cache
+D:\Cruz 6°1°\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csproj.CoreCompileInputs.cache
+D:\Cruz 6°1°\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.exe
+D:\Cruz 6°1°\phishingSites\Cruz\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.pdb
