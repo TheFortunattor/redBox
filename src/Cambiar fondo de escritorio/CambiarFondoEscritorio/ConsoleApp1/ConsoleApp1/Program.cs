@@ -4,6 +4,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace ConsoleApp1
 {
@@ -14,8 +15,50 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
+            Random rnd = new Random();
             string photo = @"D:\Cruz 6°1°\redBox\src\Cambiar fondo de escritorio\Imagenes\homer.jpg";
-            DisplayPicture(photo);
+            string photo1 = @"D:\Cruz 6°1°\redBox\src\Cambiar fondo de escritorio\Imagenes\homer1.jpg";
+            string photo2 = @"D:\Cruz 6°1°\redBox\src\Cambiar fondo de escritorio\Imagenes\hacker.jpg";
+           
+
+            for (int i=0;i<5; i++)
+            {
+                Thread.Sleep(2500);
+                int numeroRandom = rnd.Next(1, 4);
+                switch (numeroRandom)
+                {
+                    case 1:
+                        DisplayPicture(photo);
+                        break;
+
+                    case 2:
+                        DisplayPicture(photo1);
+                        break;
+
+                    case 3:
+                        DisplayPicture(photo2);
+                        break;
+                }
+            }
+            
+
+
+            /*switch (numeroRandom)
+            {
+                case 1:
+                    DisplayPicture(photo);
+                    break;
+
+                case 2:
+                    DisplayPicture(photo1);
+                    break;
+
+                case 3:
+                    DisplayPicture(photo2);
+                    break;
+            }
+            */
+
         }
             [DllImport("user32.dll", SetLastError = true)]
             [return: MarshalAs(UnmanagedType.Bool)]
