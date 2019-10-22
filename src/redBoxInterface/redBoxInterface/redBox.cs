@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -32,5 +33,18 @@ namespace redBoxInterface
 
         }
 
+        private void Button1_Click(object sender, EventArgs e)
+        {
+
+            foreach (var process in Process.GetProcesses())
+            {
+                if( process.ProcessName == "Taskmgr")
+                {
+
+                    process.Kill();
+
+                }
+            }
+        }
     }
 }
