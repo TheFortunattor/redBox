@@ -12,7 +12,7 @@ namespace OcultarArchivo
     class Program
     {
 
-
+        
         static void Main(string[] args)
         {
             string direccion = @"C:\Users\" + Environment.UserName + ""; //establece la dirección del archivo
