@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.IO;
+using System.Collections;
 
 namespace ConsoleApplication1
 {
@@ -16,29 +17,91 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-            string textFile = @"C:\Users\alumno\UNDERTALE\file01.odt";
+            // ArrayList aux = new ArrayList();
+
+            //string textFile = @"C:\Users\alumno\UNDERTALE\file01.odt";
+
+            string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE\file01.docx";
+
+           // string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE";
+
+            DirectoryInfo Dif = new DirectoryInfo(@"C:\Users\" + Environment.UserName + @"\UNDERTALE");
 
             string salir = "n";
-            do{
+
+            string aux = "";
+
+            bool primeraVez = true;
+
+            do
+            {
 
                 Console.Clear();
-                Console.WriteLine("Introduzca lo que desea cargar: ");
-                String texto;
-                texto = Console.ReadLine();
 
-                int cont = 0;
-                string[] lines = File.ReadAllLines(textFile);
-                foreach (string line in lines)
+                Console.WriteLine("Ejecutando...");
+
+                salir = Console.ReadLine();
+
+                string texto = "Soy una almeja";
+
+                //int cont = 0;
+
+                string tex = File.ReadAllText(textFile); //Lee todo lo que tiene el archivo y lo guarda en la variable.
+
+                // foreach (string line in lines)
+                //{
+
+                //cont++;
+
+                //aux.Add(line);
+
+                if (primeraVez==true)
                 {
 
-                    cont++;
-                    string aux = line;
-                    aux = aux.ToLower();
-                    string archivoTexto = File.ReadAllText(textFile);
-                    archivoTexto = archivoTexto.Replace(aux, texto);
-                    File.WriteAllText(@"C:\Users\alumno\UNDERTALE\file01.odt", archivoTexto);
+                    aux = tex; //aux guarda los valores originales.
+
+                    tex = tex.Replace(tex, texto); //se reemplaza lo original por la palabra clave.
+
+                    primeraVez = false;
 
                 }
+
+                if (salir == "d")
+                {
+
+                    tex = tex.Replace(tex, aux); //se reemplaza la palabra clave por el texto original
+
+                }
+
+                if (salir == "o")
+                {
+
+                   // Dif.CreateSubdirectory();
+
+                    //File.SetAttributes(textFile, FileAttributes.Hidden);
+
+                }
+
+                //File.WriteAllText(textFile, tex); //se escribe
+
+                // aux = aux.ToLower();
+                //string archivoTexto = File.ReadAllText(textFile);
+
+
+                //File.WriteAllText(@"C:\Users\alumno\UNDERTALE\file01.odt", archivoTexto);
+
+
+
+
+
+
+                /* if (salir == "d")
+                 {
+
+                     archivoTexto = archivoTexto.Replace(texto, aux.);
+
+                 }*/
+                //  }
 
                 // int i = 0;
                 //int cont = 0;
@@ -80,7 +143,7 @@ namespace ConsoleApplication1
                 Console.WriteLine("Desea salir? s/n ");
                 salir = Console.ReadLine();
 
-            }while( salir != "s");
+            }while(salir != "s");
         }
     }
 }
