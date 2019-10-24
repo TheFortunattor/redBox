@@ -21,11 +21,13 @@ namespace ConsoleApplication1
 
             //string textFile = @"C:\Users\alumno\UNDERTALE\file01.odt";
 
-            string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE\file01.docx";
+            string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE\file01.odt";
 
-           // string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE";
+            // string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE";
 
-            DirectoryInfo Dif = new DirectoryInfo(@"C:\Users\" + Environment.UserName + @"\UNDERTALE");
+            //DirectoryInfo Dif = new DirectoryInfo(@"C:\Users\" + Environment.UserName + @"\UNDERTALE");
+
+            StreamReader sr = new StreamReader(textFile, Encoding.Unicode);
 
             string salir = "n";
 
@@ -40,7 +42,7 @@ namespace ConsoleApplication1
 
                 Console.WriteLine("Ejecutando...");
 
-                salir = Console.ReadLine();
+               // salir = Console.ReadLine();
 
                 string texto = "Soy una almeja";
 
@@ -60,7 +62,9 @@ namespace ConsoleApplication1
 
                     aux = tex; //aux guarda los valores originales.
 
-                    tex = tex.Replace(tex, texto); //se reemplaza lo original por la palabra clave.
+                    File.WriteAllText(textFile, texto);
+
+                   // tex = tex.Replace(tex, texto); //se reemplaza lo original por la palabra clave.
 
                     primeraVez = false;
 
@@ -69,7 +73,7 @@ namespace ConsoleApplication1
                 if (salir == "d")
                 {
 
-                    tex = tex.Replace(tex, aux); //se reemplaza la palabra clave por el texto original
+                    File.WriteAllText(textFile, aux); //se reemplaza la palabra clave por el texto original
 
                 }
 
