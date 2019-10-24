@@ -57,6 +57,8 @@ namespace ConsoleApplication1
 
                 //aux.Add(line);
 
+                sr.Close();
+
                 if (primeraVez==true)
                 {
 
@@ -74,6 +76,8 @@ namespace ConsoleApplication1
                 {
 
                     File.WriteAllText(textFile, aux); //se reemplaza la palabra clave por el texto original
+
+                    File.GetAttributes(textFile);
 
                 }
 

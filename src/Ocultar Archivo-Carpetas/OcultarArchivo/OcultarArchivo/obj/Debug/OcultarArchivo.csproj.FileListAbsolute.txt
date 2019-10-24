@@ -26,3 +26,10 @@ D:\Cruz 6°1°\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo
 D:\Cruz 6°1°\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csproj.CoreCompileInputs.cache
 D:\Cruz 6°1°\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.exe
 D:\Cruz 6°1°\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.pdb
+E:\Fortux\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.exe.config
+E:\Fortux\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.exe
+E:\Fortux\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\bin\Debug\OcultarArchivo.pdb
+E:\Fortux\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csprojAssemblyReference.cache
+E:\Fortux\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.csproj.CoreCompileInputs.cache
+E:\Fortux\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.exe
+E:\Fortux\redBox\src\Ocultar Archivo-Carpetas\OcultarArchivo\OcultarArchivo\obj\Debug\OcultarArchivo.pdb

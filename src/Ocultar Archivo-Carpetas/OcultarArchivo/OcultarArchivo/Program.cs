@@ -15,7 +15,7 @@ namespace OcultarArchivo
         
         static void Main(string[] args)
         {
-            string direccion = @"C:\Users\" + Environment.UserName + ""; //establece la dirección del archivo
+            string direccion = @"C:\Users\" + Environment.UserName; //establece la dirección del archivo
             /*if (!File.Exists(direccion)) //si no existe el archivo lo crea
             {
                 File.Create(direccion);
