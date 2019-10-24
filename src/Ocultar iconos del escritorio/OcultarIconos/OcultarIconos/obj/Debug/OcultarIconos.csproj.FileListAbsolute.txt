@@ -1,0 +1,7 @@
+D:\Cruz 6°1°\redBox\src\Ocultar iconos del escritorio\OcultarIconos\OcultarIconos\bin\Debug\OcultarIconos.exe.config
+D:\Cruz 6°1°\redBox\src\Ocultar iconos del escritorio\OcultarIconos\OcultarIconos\bin\Debug\OcultarIconos.exe
+D:\Cruz 6°1°\redBox\src\Ocultar iconos del escritorio\OcultarIconos\OcultarIconos\bin\Debug\OcultarIconos.pdb
+D:\Cruz 6°1°\redBox\src\Ocultar iconos del escritorio\OcultarIconos\OcultarIconos\obj\Debug\OcultarIconos.csprojAssemblyReference.cache
+D:\Cruz 6°1°\redBox\src\Ocultar iconos del escritorio\OcultarIconos\OcultarIconos\obj\Debug\OcultarIconos.csproj.CoreCompileInputs.cache
+D:\Cruz 6°1°\redBox\src\Ocultar iconos del escritorio\OcultarIconos\OcultarIconos\obj\Debug\OcultarIconos.exe
+D:\Cruz 6°1°\redBox\src\Ocultar iconos del escritorio\OcultarIconos\OcultarIconos\obj\Debug\OcultarIconos.pdb
