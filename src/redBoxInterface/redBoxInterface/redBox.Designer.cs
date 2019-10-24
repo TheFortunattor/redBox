@@ -92,6 +92,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "=)";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.RedBox_FormClosing);
+            this.Load += new System.EventHandler(this.RedBox_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxFlowey)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
