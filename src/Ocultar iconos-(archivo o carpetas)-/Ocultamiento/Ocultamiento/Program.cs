@@ -61,11 +61,14 @@ namespace Ocultamiento
                     case 2:
                         DisplayPicture(photo1);
                         break;
-
                 }
             }
 
             Console.ReadKey(); //espero que se apriete una tecla para salir
+
+
+
+
         }
         [DllImport("user32.dll", SetLastError = true)]
         [return: MarshalAs(UnmanagedType.Bool)]

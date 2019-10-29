@@ -12,3 +12,10 @@ D:\Cruz 6°1°\phishingSites\Cruz\Ocultar archivo de Undertale\ConsoleApp1\Conso
 D:\Cruz 6°1°\phishingSites\Cruz\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\Cruz 6°1°\phishingSites\Cruz\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\Cruz 6°1°\phishingSites\Cruz\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Cruz 6°1°\redBox\src\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Cruz 6°1°\redBox\src\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Cruz 6°1°\redBox\src\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Cruz 6°1°\redBox\src\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Cruz 6°1°\redBox\src\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Cruz 6°1°\redBox\src\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Cruz 6°1°\redBox\src\Ocultar archivo de Undertale\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
