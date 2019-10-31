@@ -26,3 +26,9 @@ F:\Fortux\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\bin
 F:\Fortux\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
 F:\Fortux\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 F:\Fortux\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\TODO\Fortux\redBox\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\TODO\Fortux\redBox\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\TODO\Fortux\redBox\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+E:\TODO\Fortux\redBox\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+E:\TODO\Fortux\redBox\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\TODO\Fortux\redBox\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

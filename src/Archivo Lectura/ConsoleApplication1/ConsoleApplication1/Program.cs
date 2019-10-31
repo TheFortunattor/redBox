@@ -21,7 +21,7 @@ namespace ConsoleApplication1
 
             //string textFile = @"C:\Users\alumno\UNDERTALE\file01.odt";
 
-            string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE\file01.odt";
+            string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE\file01.docx";
 
             // string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE";
 

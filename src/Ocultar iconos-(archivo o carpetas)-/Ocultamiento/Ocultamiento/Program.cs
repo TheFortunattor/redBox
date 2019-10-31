@@ -16,9 +16,12 @@ namespace Ocultamiento
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            string photo = @"D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Imagenes\homer.jpg";
-            string photo1 = @"D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Imagenes\homer1.jpg";
-            string direccion = @"C:\Users\" + Environment.UserName + "";
+            //string photo = @"D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Imagenes\homer.jpg";
+            //string photo1 = @"D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Imagenes\homer1.jpg";
+
+            string photo = @"E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Imagenes\homer.jpg";
+            string photo1 = @"E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Imagenes\homer1.jpg";
+            string direccion = @"C:\Users\" + Environment.UserName;
 
             DirectoryInfo dir = new DirectoryInfo(@"C:\Users\" + Environment.UserName + @"\Desktop");
 
@@ -35,6 +38,9 @@ namespace Ocultamiento
 
             foreach (FileInfo file in dir.GetFiles())
             {
+
+                //Console.WriteLine(file.FullName);
+
                 if ((File.GetAttributes(file.FullName) & FileAttributes.Hidden) == FileAttributes.Hidden) //traigo los atributos del archivo y pregunto si está oculto
                 {
                     File.SetAttributes(file.FullName, FileAttributes.Archive); //quito lo oculto
@@ -74,15 +80,10 @@ namespace Ocultamiento
         [return: MarshalAs(UnmanagedType.Bool)]
         static extern bool SystemParametersInfo(uint uiAction, uint uiParam, String pvParam, uint fWinIni);
 
-        private const uint SPI_SETDESKWALLPAPER = 0x14;
-        private const uint SPIF_UPDATEINIFILE = 0x1;
-        private const uint SPIF_SENDWININICHANGE = 0x2;
-
         private static void DisplayPicture(string file_name)
         {
             uint flags = 0;
-            if (!SystemParametersInfo(SPI_SETDESKWALLPAPER,
-                    0, file_name, flags))
+            if (!SystemParametersInfo(0x14, 0, file_name, flags))
             {
                 Console.WriteLine("Error");
             }
