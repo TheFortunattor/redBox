@@ -1,1 +1,69 @@
 https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/file-system/how-to-get-information-about-files-folders-and-drives
+
+
+                if (salir == "o")
+                {
+
+                   // Dif.CreateSubdirectory();
+
+                    //File.SetAttributes(textFile, FileAttributes.Hidden);
+
+                }
+
+                //File.WriteAllText(textFile, tex); //se escribe
+
+                // aux = aux.ToLower();
+                //string archivoTexto = File.ReadAllText(textFile);
+
+
+                //File.WriteAllText(@"C:\Users\alumno\UNDERTALE\file01.odt", archivoTexto);
+
+
+
+
+
+
+                /* if (salir == "d")
+                 {
+
+                     archivoTexto = archivoTexto.Replace(texto, aux.);
+
+                 }*/
+                //  }
+
+                // int i = 0;
+                //int cont = 0;
+                /* string[] lines = File.ReadAllLines(textFile);
+                 foreach (string line in lines)
+                 {
+                     cont++;
+                     string aux = line;
+                     aux = aux.ToLower();
+                     if (aux.IndexOf(texto) != -1)
+                     {
+                         cont++;
+                     }
+
+                         
+
+
+
+                         /* using (StreamWriter file = new StreamWriter(@"C:\Users\alumno\UNDERTALE\file01.txt", true))
+                              {
+                                  file.WriteLine("ANDA"); //se agrega información al documento
+
+                                  file.Close();
+                              }
+                              */
+                /* using (StreamWriter file = new StreamWriter(@"C:\Users\alumno\UNDERTALE\file01.odt", true))
+                 {
+                     file.WriteLine("ANDA"); //se agrega información al documento
+
+                     file.Close();
+                 }
+
+
+            }
+            Console.WriteLine("Lineas total leidas: "+i+" / Coincidencias: "+cont);
+
+         */

