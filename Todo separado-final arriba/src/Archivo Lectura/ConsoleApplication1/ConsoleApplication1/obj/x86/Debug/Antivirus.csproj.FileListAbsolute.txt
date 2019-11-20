@@ -1,0 +1,5 @@
+C:\Users\Martín\Desktop\Alan\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Antivirus.csprojAssemblyReference.cache
+C:\Users\Martín\Desktop\Alan\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\bin\Debug\Antivirus.exe
+C:\Users\Martín\Desktop\Alan\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\bin\Debug\Antivirus.pdb
+C:\Users\Martín\Desktop\Alan\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Antivirus.exe
+C:\Users\Martín\Desktop\Alan\redBox\src\Archivo Lectura\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\Antivirus.pdb

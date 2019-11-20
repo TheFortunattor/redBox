@@ -1,0 +1,20 @@
+D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.exe.config
+D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.exe
+D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.pdb
+D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.csprojAssemblyReference.cache
+D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.csproj.CoreCompileInputs.cache
+D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.exe
+D:\Cruz 6°1°\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.pdb
+E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.exe.config
+E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.exe
+E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.pdb
+E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.csprojAssemblyReference.cache
+E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.csproj.CoreCompileInputs.cache
+E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.exe
+E:\TODO\Fortux\redBox\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.pdb
+C:\Users\Martín\Desktop\Alan\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.exe.config
+C:\Users\Martín\Desktop\Alan\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.exe
+C:\Users\Martín\Desktop\Alan\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\bin\Debug\Ocultamiento.pdb
+C:\Users\Martín\Desktop\Alan\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.csprojAssemblyReference.cache
+C:\Users\Martín\Desktop\Alan\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.exe
+C:\Users\Martín\Desktop\Alan\redBox\src\Ocultar iconos-(archivo o carpetas)-\Ocultamiento\Ocultamiento\obj\Debug\Ocultamiento.pdb

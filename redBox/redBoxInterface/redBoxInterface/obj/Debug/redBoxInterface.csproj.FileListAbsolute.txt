@@ -1,0 +1,47 @@
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe.config
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.pdb
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csprojAssemblyReference.cache
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.redBox.resources
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.Properties.Resources.resources
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.exe
+C:\Users\alumno\source\repos\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.pdb
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe.config
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.pdb
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.redBox.resources
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.Properties.Resources.resources
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.exe
+C:\Users\alumno\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.pdb
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe.config
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.pdb
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csprojAssemblyReference.cache
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.redBox.resources
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.Properties.Resources.resources
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csproj.GenerateResource.cache
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.exe
+C:\Users\Franco Fortunatto\Desktop\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.pdb
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe.config
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.pdb
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csprojAssemblyReference.cache
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.redBox.resources
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.Properties.Resources.resources
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csproj.GenerateResource.cache
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.exe
+C:\Users\Martín\Desktop\Alan\redBox\src\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.pdb
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe.config
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.exe
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\bin\Debug\redBoxInterface.pdb
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csprojAssemblyReference.cache
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.redBox.resources
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.Properties.Resources.resources
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.csproj.GenerateResource.cache
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.exe
+C:\Users\Martín\Desktop\redBox\redBoxInterface\redBoxInterface\obj\Debug\redBoxInterface.pdb
