@@ -86,6 +86,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="flowey.jpg" />
+    <Content Include="Resources\UNDERTALE.exe" />
     <None Include="Resources\flowey.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

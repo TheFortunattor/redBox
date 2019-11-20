@@ -45,7 +45,6 @@
             this.pictureBoxFlowey.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBoxFlowey.TabIndex = 0;
             this.pictureBoxFlowey.TabStop = false;
-            this.pictureBoxFlowey.Click += new System.EventHandler(this.PictureBox1_Click);
             // 
             // textBoxMessage
             // 

@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,16 +17,15 @@ namespace redBoxInterface
         public redBox()
         {
             InitializeComponent();
-            TopMost = true;
-            TopLevel = true;
+         //   TopMost = true;
+         //   TopLevel = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.ControlBox = false;
             this.Text = String.Empty;
-            cerrarProcesos();
+           // cerrarProcesos();
         }
 
         public void cerrarProcesos() {
-            int i = 0;
 
                 try
                 {
@@ -64,17 +64,16 @@ namespace redBoxInterface
             e.Cancel = true;
         }
 
-        private void PictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void Button1_Click(object sender, EventArgs e)
         {
-           
-          
 
-           
+            string juego = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName + @"..\..\..\Resources\Undertale\");
+
+            System.Diagnostics.Debug.WriteLine(juego + @"\UNDERTALE.exe");
+
+            Process.Start(juego + @"\UNDERTALE.exe");
+
         }
 
         private void RedBox_Load(object sender, EventArgs e)
