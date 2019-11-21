@@ -60,7 +60,7 @@ namespace redBoxInterface
         private void Button1_Click(object sender, EventArgs e)
         {
 
-            Process.Start(@"C:\Users\" + Environment.UserName +@"\Desktop\redBox\UNDERTALE.exe");
+            Process.Start(@"C:\Users\" + Environment.UserName + @"\Desktop\redBox\Undertale\UNDERTALE.exe");
 
         }
 
